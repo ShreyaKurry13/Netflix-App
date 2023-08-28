@@ -28,6 +28,13 @@ const Sdata = [
         title : "A original Netflix series",
         sname:"MY FIRST FIRST LOVE",
         link:"https://www.netflix.com/in/title/80990668?source=35",
+    },
+    {
+      imgscr:"https://wallpapercave.com/dwp1x/wp12630943.jpg",
+      title : "A original Netflix series",
+      sname:"VAMPIRE DIARIES",
+      link:"https://www.netflix.com/in/title/80990668?source=35",
     }
+
 ]
 export default Sdata;                   

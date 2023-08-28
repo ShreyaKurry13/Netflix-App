@@ -15,13 +15,13 @@ function Card(props){
             <h3 className='card__title'>{props.sname}</h3>
             <a 
               href= {props.link}
-              target="_blank">
+              target="">
           <button>Watch Now</button>
           </a>
           </div>
          </div>
       </div>
-      </>
+      </> 
     )
   }
 
