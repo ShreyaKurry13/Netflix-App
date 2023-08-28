@@ -4,12 +4,6 @@ import Card from './Cards';
 import './index.css';
 import Sdata from './Sdata';
 
-// console.log(Sdata[0].sname);
-
-// function ncard(val){
-//   console.log(val);
- 
-// }
 
 ReactDOM.render(
   <>
